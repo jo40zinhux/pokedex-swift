@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  swift-mvvm-pokedex
+
+  Created by João Pedro on 09/02/23.
+  
+*/
+
+"intro_button_start" = "Bora lá!";
+"trainer_label_title_meet" = "Pra começar, que tal nos conhecermos?";
+"trainer_label_subtitle_meet" = "Primeiramente precisamos saber como quer ser chamado...";
+"trainer_textfield_name" = "Pessoa treinadora Pokémon";
+"trainer_button_start" = "Muito prazer!";
+"favorite_label_title" = "Olá, ";
+"favorite_label_subtitle" = "... agora me conte qual é seu Tipo Pokémon favorito:";
+"favorite_textfield_title" = "Escolha seu Tipo Pokémon";
+"favorite_button_title" = "Confirmar";
